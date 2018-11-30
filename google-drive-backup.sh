@@ -13,4 +13,5 @@ apt-get install google-drive-ocamlfuse
 # deb-src http://ppa.launchpad.net/alessandro-strada/ppa/ubuntu xenial main
 
 
-https://github.com/prasmussen/gdrive
+# http://www.linuxandubuntu.com/home/google-drive-cli-client-for-linux
+# https://github.com/prasmussen/gdrive
