@@ -11,3 +11,6 @@ apt-get install google-drive-ocamlfuse
 # change to xeninal
 # deb http://ppa.launchpad.net/alessandro-strada/ppa/ubuntu xenial main
 # deb-src http://ppa.launchpad.net/alessandro-strada/ppa/ubuntu xenial main
+
+
+https://github.com/prasmussen/gdrive
